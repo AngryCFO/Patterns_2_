@@ -1,5 +1,4 @@
 [![Java CI with Gradle](https://github.com/AngryCFO/Patterns_2_/actions/workflows/gradle.yml/badge.svg)](https://github.com/AngryCFO/Patterns_2_/actions/workflows/gradle.yml)
-[![Build status](https://ci.appveyor.com/api/projects/status/cc5v62e3jskqpd54/branch/main?svg=true)](https://ci.appveyor.com/project/AngryCFO/patterns-2/branch/main)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
